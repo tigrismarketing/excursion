@@ -20,7 +20,9 @@ h2 {
 h3 {
   font-size: 21px;
   color: gray;
+  font-weight: 200;
 }
 #footer h3 {
   text-align: right;
+  font-weight: 200;
 }
